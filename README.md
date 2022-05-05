@@ -1,4 +1,4 @@
-Job matching est un programme qui recommandation des offres de travail  à des chercheurs d'emploi.
+Job matching est un programme qui recommandae des offres de travail  à des chercheurs d'emploi.
 
 Pour rejouer le code, il suffit de compiler le notebook dans le dossier.
 
